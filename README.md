@@ -1,3 +1,3 @@
-## Project Overview
+## Markdown Overview
 
-This website was created to be a portfolio. I began designing this website with zero HTML experience, and have worked my way up to where I am now by teaching myself. Every day I learn more, and try to keep the websited as updated as possible.
+Recently, I've been interested in primarily using markdown over HTML for cleaner more understandable code, so this branch is to act as a playground for me to do so. Once I'm comfortable enough with it, I will rewrite my website using it.
